@@ -1,32 +1,80 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Uitsluiten van binaries en object-bestanden
+[Bb]in/
+[Oo]bj/
+*.nupkg
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
-*.out
-*.app
+*.pdb
+*.cache
+*.suo
+
+# Uitsluiten van build-gerelateerde bestanden
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.sbr
+*.log
+*.tlog
+*.bak
+*.obj
+*.lck
+*.ilk
+*.exp
+*.lib
+*.suo
+*.ipch
+*.swp
+*.userprefs
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
+*.pidb
+*.svclog
+*.scc
+
+# Uitsluiten van ReSharper-bestanden
+_ReSharper*/
+*.[Rr]esharper
+
+# Uitsluiten van VS Code-bestanden
+.vscode/
+
+# Uitsluiten van Visual Studio-bestanden
+.vs/
+*.userosscache
+*.usertasks
+
+# Uitsluiten van project- en oplossingsbestanden
+*.csproj
+*.vbproj
+*.fsproj
+*.config
+*.sln
+*.snk
+
+# Uitsluiten van Git en Mercurial
+/.git
+/.hg
+
+# Uitsluiten van specifieke bestandsextensies
+
+*.un~
+Session.vim
+*.swo
+*.tmp
+
+*.db
+
+# Uitsluiten van OS-gerelateerde bestanden
+.DS_Store
+Thumbs.db
+
+# Uitsluiten van IDE-specifieke mappen
+.idea/
+*.iml
+*.iws
