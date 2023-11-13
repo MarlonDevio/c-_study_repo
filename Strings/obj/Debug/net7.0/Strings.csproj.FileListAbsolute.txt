@@ -1,0 +1,14 @@
+D:\C#\HelloWorld\Strings\bin\Debug\net7.0\Strings.exe
+D:\C#\HelloWorld\Strings\bin\Debug\net7.0\Strings.deps.json
+D:\C#\HelloWorld\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+D:\C#\HelloWorld\Strings\bin\Debug\net7.0\Strings.dll
+D:\C#\HelloWorld\Strings\bin\Debug\net7.0\Strings.pdb
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.dll
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\refint\Strings.dll
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.pdb
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+D:\C#\HelloWorld\Strings\obj\Debug\net7.0\ref\Strings.dll

@@ -1,0 +1,14 @@
+D:\C#\HelloWorld\ztm.NET\bin\Debug\net7.0\ztm.NET.exe
+D:\C#\HelloWorld\ztm.NET\bin\Debug\net7.0\ztm.NET.deps.json
+D:\C#\HelloWorld\ztm.NET\bin\Debug\net7.0\ztm.NET.runtimeconfig.json
+D:\C#\HelloWorld\ztm.NET\bin\Debug\net7.0\ztm.NET.dll
+D:\C#\HelloWorld\ztm.NET\bin\Debug\net7.0\ztm.NET.pdb
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.AssemblyInfoInputs.cache
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.AssemblyInfo.cs
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.csproj.CoreCompileInputs.cache
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.dll
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\refint\ztm.NET.dll
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.pdb
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ztm.NET.genruntimeconfig.cache
+D:\C#\HelloWorld\ztm.NET\obj\Debug\net7.0\ref\ztm.NET.dll

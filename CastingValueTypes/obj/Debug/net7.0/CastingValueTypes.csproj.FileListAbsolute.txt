@@ -1,0 +1,14 @@
+D:\C#\HelloWorld\CastingValueTypes\bin\Debug\net7.0\CastingValueTypes.exe
+D:\C#\HelloWorld\CastingValueTypes\bin\Debug\net7.0\CastingValueTypes.deps.json
+D:\C#\HelloWorld\CastingValueTypes\bin\Debug\net7.0\CastingValueTypes.runtimeconfig.json
+D:\C#\HelloWorld\CastingValueTypes\bin\Debug\net7.0\CastingValueTypes.dll
+D:\C#\HelloWorld\CastingValueTypes\bin\Debug\net7.0\CastingValueTypes.pdb
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.AssemblyInfoInputs.cache
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.AssemblyInfo.cs
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.csproj.CoreCompileInputs.cache
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.dll
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\refint\CastingValueTypes.dll
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.pdb
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\CastingValueTypes.genruntimeconfig.cache
+D:\C#\HelloWorld\CastingValueTypes\obj\Debug\net7.0\ref\CastingValueTypes.dll
